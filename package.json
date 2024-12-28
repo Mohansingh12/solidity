@@ -10,7 +10,7 @@
   "description": "",
   "dependencies": {
     "18": "^0.0.0",
-    "ganache": "^7.9.2",
+    "ganache": "^6.4.5",
     "mocha": "^11.0.1",
     "solc": "^0.8.28",
     "web3": "^4.16.0"
