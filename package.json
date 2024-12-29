@@ -1,17 +1,17 @@
 {
   "name": "inbox",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha"
   },
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
-    "18": "^0.0.0",
-    "ganache": "^6.4.5",
-    "mocha": "^11.0.1",
+    "ganache": "^7.9.2",
+    "mocha": "^10.8.2",
+    "node": "^23.5.0",
     "solc": "^0.8.28",
     "web3": "^4.16.0"
   }
